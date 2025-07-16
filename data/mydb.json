@@ -1,0 +1,72 @@
+{
+    "product":[
+        {
+         "img1":"https://cdn.pixabay.com/photo/2014/12/08/14/23/pocket-watch-560937_1280.jpg",
+         "id":1,
+         "name":"Titan",
+         "category":"Watch",
+         "description":"Elevate your style with the timeless elegance of a Titan watch.",
+          "price":4500
+        },
+        {
+         "img1":"https://media.istockphoto.com/id/1631723028/photo/a-beautiful-ladies-wrist-watch-artistically-clicked-with-fabric-and-cushion-background.jpg?s=612x612&w=0&k=20&c=b18eoDIxeqzGaLbxmxhLnpEF8QenO0nhN7_AuVeuMos=",
+         "id":2,
+         "name":"Sonata",
+         "category":"Watch",
+         "description":"Sonata – stylish, reliable, and made for every moment.",
+          "price":1500
+
+        },
+        {
+         "img1":"https://media.istockphoto.com/id/2189424900/photo/laptop-at-the-office-table.jpg?s=612x612&w=0&k=20&c=GvoulGrlffKyXb_OEun-Q6fbxqVRYddYgOTHDt2fzeM=",
+         "id":3,
+         "name":"Dell",
+         "category":"Laptop",
+         "description":"Dell – power, performance, and reliability in every click.",
+          "price":60000
+        },
+        {
+         "img1":"https://media.istockphoto.com/id/2152881346/photo/laptop-hp-15-bs157ur-3xy58ea-on-white-background.jpg?s=612x612&w=0&k=20&c=km0VP7D0-TjV2ZFvZb4mn3Nloaz3KVSYYM4hN_QoJHs=",
+         "id":4,
+         "name":"HP",
+         "category":"Laptop",
+         "description":"HP Laptop – power, performance, and style built for your everyday.",
+          "price":50000
+        },
+        {
+         "img1":"https://media.istockphoto.com/id/1197063359/photo/woman-using-apple-iphone-11-pro-smartphone.jpg?s=612x612&w=0&k=20&c=2q_cfjVBSfNRaiJ8uQ-JF13-pbVH9rxZETVJOC3NtYs=",
+         "id":5,
+         "name":"iphone",
+         "category":"SmartPhone",
+         "description":"iPhone – the ultimate blend of innovation, performance, and style.",
+          "price":100000
+        },
+        {
+        "img1":"https://media.istockphoto.com/id/1388958946/photo/opened-gift-box-with-gold-ribbon-and-smartphone-on-color-background-top-view-blank-open-box.jpg?s=612x612&w=0&k=20&c=hL90TPwjlaglxnmVoliClUCSpJBB8EtzC8O8Fnc-sd4=",
+         "id":6,
+         "name":"Samsung",
+         "category":"SmartPhone",
+         "description":"Samsung Smartphone – innovation in your hands, power at your fingertips.",
+          "price":30000
+        },
+        {
+         "img1": "https://cdn.pixabay.com/photo/2020/12/16/21/58/tv-5837826_1280.jpg",
+         "id": 7,
+         "name": "Samsung",
+         "category": "Television",
+         "description": "Samsung TV – immersive visuals, smart features, and stunning clarity in every frame.",
+         "price": 55000
+        },
+        {
+          "img1": "https://cdn.pixabay.com/photo/2019/06/30/18/19/tv-4308538_1280.jpg",
+          "id": 8,
+          "name": "Onida",
+          "category": "Television",
+          "description": "Onida TV – smart entertainment with vibrant display and powerful sound.",
+          "price": 28000
+        }
+
+
+
+    ]
+}

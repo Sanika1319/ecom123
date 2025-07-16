@@ -1,0 +1,21 @@
+body {
+  background: #f8f9fa;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.form-card {
+  max-width: 500px;
+  margin: 0 auto;
+  background: #ffffff;
+  border-radius: 16px;
+}
+
+input::placeholder {
+  color: #999;
+  font-size: 0.95rem;
+}
+
+button.btn-primary {
+  border-radius: 30px;
+  font-weight: 500;
+}
